@@ -1,8 +1,8 @@
 {
-    "name": "windui",
+    "name": "windui-no-debug",
     "version": "1.6.45",
     "main": "./dist/main.lua",
-    "repository": "https://github.com/Footagesus/WindUI",
+    "repository": "https://github.com/CalebTheScripter/windui-no-debug",
     "discord": "https://discord.gg/Q6HkNG4vwP",
     "author": "Footagesus",
     "description": "Roblox UI Library for scripts",
